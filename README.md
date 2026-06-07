@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![HostelHub Logo](./client/public/logo.png)
+![HostelHub Logo](<img width="647" height="520" alt="Screenshot 2026-06-07 184711" src="https://github.com/user-attachments/assets/4f412444-9b18-4527-b9fb-613ae23936b2" />
+)
 
 ### Buy. Sell. Connect.
 
